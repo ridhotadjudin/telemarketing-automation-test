@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063420.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063424.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063428.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063431.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063435.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063438.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063449.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063454.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063459.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063506.png'height="450" width="1017"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063516.png'height="450" width="1017"/>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-15T06:34:12 ICT" name="Default suite" finished-at="2022-07-15T06:35:19 ICT" duration-ms="67796">
+    <groups>
+    </groups>
+    <test started-at="2022-07-15T06:34:12 ICT" name="Default test" finished-at="2022-07-15T06:35:19 ICT" duration-ms="67796">
+      <class name="com.telemarket.task.test.TLMKT_TestLogin">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:12 ICT" name="cekSession" finished-at="2022-07-15T06:34:15 ICT" duration-ms="3803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testSPVLogin_validUsernamePassword()[pri:1, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:15 ICT" name="testSPVLogin_validUsernamePassword" finished-at="2022-07-15T06:34:45 ICT" duration-ms="29544" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063420.png'height="450" width="1017"/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063424.png'height="450" width="1017"/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063428.png'height="450" width="1017"/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063431.png'height="450" width="1017"/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063435.png'height="450" width="1017"/>]]>
+            </line>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063438.png'height="450" width="1017"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSPVLogin_validUsernamePassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:45 ICT" name="close" finished-at="2022-07-15T06:34:45 ICT" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:45 ICT" name="cekSession" finished-at="2022-07-15T06:34:47 ICT" duration-ms="1884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testSPVLogin_validUsername_invalidPassword()[pri:2, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:47 ICT" name="testSPVLogin_validUsername_invalidPassword" finished-at="2022-07-15T06:34:50 ICT" duration-ms="2799" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063449.png'height="450" width="1017"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSPVLogin_validUsername_invalidPassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:50 ICT" name="close" finished-at="2022-07-15T06:34:50 ICT" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:50 ICT" name="cekSession" finished-at="2022-07-15T06:34:52 ICT" duration-ms="1809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testSPVLogin_invalidUsernamePassword()[pri:3, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:52 ICT" name="testSPVLogin_invalidUsernamePassword" finished-at="2022-07-15T06:34:55 ICT" duration-ms="2648" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063454.png'height="450" width="1017"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSPVLogin_invalidUsernamePassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:55 ICT" name="close" finished-at="2022-07-15T06:34:55 ICT" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:55 ICT" name="cekSession" finished-at="2022-07-15T06:34:57 ICT" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testSPVLogin_emptyUsernamePassword()[pri:4, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:34:57 ICT" name="testSPVLogin_emptyUsernamePassword" finished-at="2022-07-15T06:35:00 ICT" duration-ms="2825" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063459.png'height="450" width="1017"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSPVLogin_emptyUsernamePassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:35:00 ICT" name="close" finished-at="2022-07-15T06:35:00 ICT" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:35:00 ICT" name="cekSession" finished-at="2022-07-15T06:35:02 ICT" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testSPVLogin_validUsernamePassword_btnGreenAtUsername()[pri:5, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:35:02 ICT" name="testSPVLogin_validUsernamePassword_btnGreenAtUsername" finished-at="2022-07-15T06:35:10 ICT" duration-ms="7273" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063506.png'height="450" width="1017"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSPVLogin_validUsernamePassword_btnGreenAtUsername -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:35:10 ICT" name="close" finished-at="2022-07-15T06:35:10 ICT" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:35:10 ICT" name="cekSession" finished-at="2022-07-15T06:35:12 ICT" duration-ms="1961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testSPVLogin_validUsernamePassword_btnGreenAtPassword()[pri:6, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:35:12 ICT" name="testSPVLogin_validUsernamePassword_btnGreenAtPassword" finished-at="2022-07-15T06:35:19 ICT" duration-ms="7285" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\selenium-workspace\TLMKT\TELEMARKETING\hasilScreenshot\20220715_063516.png'height="450" width="1017"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSPVLogin_validUsernamePassword_btnGreenAtPassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.telemarket.task.test.TLMKT_TestLogin@1ed6388a]" started-at="2022-07-15T06:35:19 ICT" name="close" finished-at="2022-07-15T06:35:19 ICT" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.telemarket.task.test.TLMKT_TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
