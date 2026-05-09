@@ -198,3 +198,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 - 🌐 Website: [ridhotadjudin.id](https://ridhotadjudin.id)
 - 💻 GitHub: [@ridhotadjudin](https://github.com/ridhotadjudin)
+
