@@ -5,6 +5,7 @@
 ![TestNG](https://img.shields.io/badge/TestNG_7.6.0-FF7300?style=flat-square&logo=testng&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber_7.3.4-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 End-to-end automation testing suite for a complex enterprise telemarketing system, covering SPV workflows including task creation, follow-up scheduling, agreement capture, and bulk data management.
 
@@ -182,6 +183,12 @@ This project is designed to integrate with CI/CD pipelines:
 - **TestNG XML suites** for selective module execution in different pipeline stages
 - **HTML reports** generated as pipeline artifacts for post-build review
 - Compatible with **Jenkins**, **GitHub Actions**, and **GitLab CI** runners
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
